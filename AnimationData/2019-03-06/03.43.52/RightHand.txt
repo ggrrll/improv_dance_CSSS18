@@ -1,0 +1,8 @@
+Right Hand with RightHandCollider for 0.04 seconds. Time = 0.04
+Right Hand with LeftFootCollider for 0.1498585 seconds. Time = 13.3262
+Right Hand with ChestCollider for 0.03250718 seconds. Time = 17.51683
+Right Hand with ChestCollider for 0.01685108 seconds. Time = 17.63308
+Right Hand with RightFootCollider for 0 seconds. Time = 26.77758
+Right Hand with LeftFootCollider for 0 seconds. Time = 26.79415
+Right Hand with LeftHandCollider for 0.1486651 seconds. Time = 36.99926
+

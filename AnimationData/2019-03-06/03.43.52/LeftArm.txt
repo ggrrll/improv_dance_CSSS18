@@ -1,0 +1,19 @@
+Left Arm with LeftArmCollider for 0.04 seconds. Time = 0.04
+Left Arm with HeadCollider for 0.3481073 seconds. Time = 12.69612
+Left Arm with RightArmCollider for 0.3481073 seconds. Time = 12.69612
+Left Arm with ChestCollider for 0.3810412 seconds. Time = 16.63934
+Left Arm with HeadCollider for 0.03313435 seconds. Time = 17.64936
+Left Arm with RightLegCollider for 0.01688316 seconds. Time = 27.98737
+Left Arm with RightFootCollider for 0.1327575 seconds. Time = 28.99775
+Left Arm with RightFootCollider for 0.3478994 seconds. Time = 31.4991
+Left Arm with RightFootCollider for 0.01744168 seconds. Time = 31.93071
+Left Arm with RightFootCollider for 0.03364635 seconds. Time = 32.02974
+Left Arm with LeftFootCollider for 2.236544 seconds. Time = 36.53558
+Left Arm with LeftFootCollider for 0.03313371 seconds. Time = 36.68449
+Left Arm with LeftFootCollider for 0.01595605 seconds. Time = 36.76732
+Left Arm with LeftFootCollider for 1.176396 seconds. Time = 38.39131
+Left Arm with LeftFootCollider for 0.01656782 seconds. Time = 38.424
+Left Arm with LeftFootCollider for 0.7124338 seconds. Time = 39.1702
+Left Arm with LeftFootCollider for 0.03353054 seconds. Time = 39.25274
+Left Arm with LeftFootCollider for 0.06563319 seconds. Time = 39.43457
+

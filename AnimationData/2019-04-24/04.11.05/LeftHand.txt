@@ -1,0 +1,3 @@
+Left Hand with LeftHandCollider for 0.04 seconds. Time = 0.04
+Left Hand with LeftHandCollider for 0.1495768 seconds. Time = 73.78654
+

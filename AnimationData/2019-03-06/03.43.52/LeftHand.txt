@@ -1,0 +1,21 @@
+Left Hand with LeftHandCollider for 0.04 seconds. Time = 0.04
+Left Hand with RightHandCollider for 0.1656663 seconds. Time = 8.537667
+Left Hand with ChestCollider for 1.640117 seconds. Time = 10.45942
+Left Hand with ChestCollider for 0.0827438 seconds. Time = 10.93984
+Left Hand with ChestCollider for 0.09878005 seconds. Time = 11.13864
+Left Hand with ChestCollider for 1.822334 seconds. Time = 13.25918
+Left Hand with ChestCollider for 0.4307029 seconds. Time = 14.05438
+Left Hand with RightHandCollider for 0.04969287 seconds. Time = 22.96725
+Left Hand with ChestCollider for 0.5466485 seconds. Time = 24.22632
+Left Hand with ChestCollider for 0.05035467 seconds. Time = 24.32638
+Left Hand with ChestCollider for 0.2484986 seconds. Time = 25.71732
+Left Hand with HipCollider for 0.1483459 seconds. Time = 36.23718
+Left Hand with ChestCollider for 0.1823101 seconds. Time = 36.41949
+Left Hand with RightHandCollider for 0.1486651 seconds. Time = 36.99926
+Left Hand with HipCollider for 0.6790716 seconds. Time = 73.57838
+Left Hand with HipCollider for 1.242245 seconds. Time = 74.95357
+Left Hand with ChestCollider for 0.5133777 seconds. Time = 77.43838
+Left Hand with ChestCollider for 0.1333699 seconds. Time = 77.73741
+Left Hand with ChestCollider for 0.2152302 seconds. Time = 78.05134
+Left Hand with HipCollider for 0.2152302 seconds. Time = 78.36652
+

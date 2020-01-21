@@ -1,0 +1,6 @@
+Hip with HipCollider for 0.04 seconds. Time = 0.04
+Hip with RightFootCollider for 0.3317089 seconds. Time = 24.50873
+Hip with RightFootCollider for 0.08244964 seconds. Time = 25.1877
+Hip with RightFootCollider for 0.3978441 seconds. Time = 25.88323
+Hip with RightFootCollider for 0.3313327 seconds. Time = 27.10892
+

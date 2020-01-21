@@ -1,0 +1,13 @@
+Right Leg with RightLegCollider for 0.04 seconds. Time = 0.04
+Right Leg with HeadCollider for 0.01685012 seconds. Time = 15.19134
+Right Leg with HeadCollider for 0.1165091 seconds. Time = 15.39035
+Right Leg with RightHandCollider for 0.06626675 seconds. Time = 15.87024
+Right Leg with RightArmCollider for 0.1653702 seconds. Time = 16.05248
+Right Leg with RightHandCollider for 0.01656974 seconds. Time = 16.18501
+Right Leg with RightLegCollider for 0.01694155 seconds. Time = 26.95414
+Right Leg with LeftLegCollider for 0.1490994 seconds. Time = 71.18626
+Right Leg with LeftLegCollider for 0.01627973 seconds. Time = 71.25253
+Right Leg with LeftLegCollider for 0.01692486 seconds. Time = 71.91599
+Right Leg with RightLegCollider for 0.01656621 seconds. Time = 76.02369
+Right Leg with RightFootCollider for 0.01677537 seconds. Time = 81.68957
+

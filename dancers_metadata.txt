@@ -1,0 +1,2 @@
+Dancer id1, beginner, woman, age: 19, years of improvisational dance: 3-5, percieved proficiency: advanced
+Dancer id2, beginner, woman, age: 17, years of improvisational dance: 1-3, percieved proficiency: beginning

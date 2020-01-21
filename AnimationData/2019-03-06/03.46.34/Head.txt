@@ -1,0 +1,26 @@
+Head with ChestCollider for 0.04 seconds. Time = 0.04
+Head with HeadCollider for 0.04 seconds. Time = 0.04
+Head with RightHandCollider for 0.1328302 seconds. Time = 3.445527
+Head with RightArmCollider for 0.2479237 seconds. Time = 3.826263
+Head with ChestCollider for 0.2479237 seconds. Time = 4.372962
+Head with LeftLegCollider for 0.01596406 seconds. Time = 6.824987
+Head with LeftLegCollider for 0.03305029 seconds. Time = 8.150165
+Head with LeftLegCollider for 0.2984782 seconds. Time = 8.730322
+Head with HeadCollider for 0.1988 seconds. Time = 14.0976
+Head with HeadCollider for 0.1328688 seconds. Time = 15.67198
+Head with RightHandCollider for 0.1328688 seconds. Time = 15.85414
+Head with HeadCollider for 0.1159712 seconds. Time = 15.97011
+Head with RightHandCollider for 0.0170519 seconds. Time = 16.08639
+Head with RightHandCollider for 0.01656685 seconds. Time = 25.90965
+Head with LeftArmCollider for 0.01656685 seconds. Time = 25.95983
+Head with HeadCollider for 0.2153668 seconds. Time = 26.29069
+Head with LeftArmCollider for 0.1822337 seconds. Time = 27.01963
+Head with LeftHandCollider for 0.01697074 seconds. Time = 41.16801
+Head with LeftHandCollider for 0.06626739 seconds. Time = 41.44918
+Head with RightHandCollider for 0.03309488 seconds. Time = 42.07874
+Head with LeftArmCollider for 0.03296752 seconds. Time = 42.12858
+Head with RightHandCollider for 0.03296752 seconds. Time = 42.32763
+Head with RightArmCollider for 0.1161425 seconds. Time = 61.23007
+Head with ChestCollider for 1.011027 seconds. Time = 63.56613
+Head with RightFootCollider for 0.2148125 seconds. Time = 89.30988
+

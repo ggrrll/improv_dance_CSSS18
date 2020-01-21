@@ -1,0 +1,12 @@
+Hip with HipCollider for 0.04 seconds. Time = 0.04
+Hip with RightArmCollider for 0.2154781 seconds. Time = 21.18526
+Hip with RightArmCollider for 0.1656653 seconds. Time = 21.49992
+Hip with ChestCollider for 0.9435688 seconds. Time = 22.65969
+Hip with RightHandCollider for 0.01656909 seconds. Time = 23.95178
+Hip with RightArmCollider for 0.01656909 seconds. Time = 24.01804
+Hip with RightHandCollider for 0.0331337 seconds. Time = 26.03918
+Hip with RightHandCollider for 0.03313306 seconds. Time = 30.09802
+Hip with RightHandCollider for 0.04969734 seconds. Time = 30.69442
+Hip with RightHandCollider for 0.03313466 seconds. Time = 73.81728
+Hip with RightHandCollider for 0.3808499 seconds. Time = 76.05395
+

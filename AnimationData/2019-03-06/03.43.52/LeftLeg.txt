@@ -1,0 +1,4 @@
+Left Leg with LeftLegCollider for 0.04 seconds. Time = 0.04
+Left Leg with RightFootCollider for 0.08337611 seconds. Time = 21.1289
+Left Leg with RightFootCollider for 0.4638678 seconds. Time = 23.56366
+

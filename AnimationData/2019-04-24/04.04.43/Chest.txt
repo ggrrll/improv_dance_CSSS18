@@ -1,0 +1,9 @@
+Chest with ChestCollider for 0.04 seconds. Time = 0.04
+Chest with HipCollider for 0.04 seconds. Time = 0.04
+Chest with LeftHandCollider for 0.2150752 seconds. Time = 66.67817
+Chest with HeadCollider for 0.1980441 seconds. Time = 119.3928
+Chest with LeftHandCollider for 0.08233027 seconds. Time = 274.1656
+Chest with LeftHandCollider for 0.1657673 seconds. Time = 274.3647
+Chest with ChestCollider for 0.7625403 seconds. Time = 306.1245
+Chest with LeftHandCollider for 0.2816355 seconds. Time = 313.4468
+

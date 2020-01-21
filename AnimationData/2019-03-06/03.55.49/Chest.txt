@@ -1,0 +1,24 @@
+Chest with ChestCollider for 0.04 seconds. Time = 0.04
+Chest with HipCollider for 0.04 seconds. Time = 0.04
+Chest with LeftArmCollider for 0.01614981 seconds. Time = 8.329411
+Chest with LeftArmCollider for 0.3313334 seconds. Time = 9.074913
+Chest with LeftArmCollider for 0.1493843 seconds. Time = 9.986366
+Chest with RightArmCollider for 0.8614675 seconds. Time = 20.53905
+Chest with HeadCollider for 0.09890513 seconds. Time = 21.81503
+Chest with RightHandCollider for 0.01656557 seconds. Time = 22.77554
+Chest with HeadCollider for 0.01656557 seconds. Time = 22.87494
+Chest with RightArmCollider for 0.01656557 seconds. Time = 22.92538
+Chest with RightArmCollider for 0.01675901 seconds. Time = 23.76973
+Chest with HeadCollider for 0.01675901 seconds. Time = 23.96909
+Chest with ChestCollider for 0.01675901 seconds. Time = 23.96909
+Chest with LeftArmCollider for 0.08302096 seconds. Time = 25.4761
+Chest with RightHandCollider for 0.1987993 seconds. Time = 26.23798
+Chest with RightHandCollider for 0.214294 seconds. Time = 30.14772
+Chest with RightHandCollider for 0.2156581 seconds. Time = 30.89351
+Chest with RightHandCollider for 0.4472972 seconds. Time = 50.65725
+Chest with RightHandCollider for 0.08267576 seconds. Time = 50.75665
+Chest with RightHandCollider for 1.40817 seconds. Time = 52.29735
+Chest with ChestCollider for 0.2982232 seconds. Time = 65.03715
+Chest with RightHandCollider for 0.1987996 seconds. Time = 75.65615
+Chest with RightHandCollider for 0.06587217 seconds. Time = 75.73898
+
